@@ -28,7 +28,7 @@
     "adapools_ext": {
         "prometheus": {
             "0": {
-                "name": "relay 1",
+                "name": "Main Relay - United States",
                 "type": "relay",
                 "key": "995b4a7d7ef04bc6fcc7f7f7b3e03714"
             },
