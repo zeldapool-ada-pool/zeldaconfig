@@ -4,13 +4,10 @@
         "url_png_logo": "https://raw.githubusercontent.com/zeldapool-ada-pool/zeldaconfig/main/Z3lda64x64.jpg",
         "location": "Jersey City, New Jersey",
         "social": {
-            "telegram_handle": "z3ldastakepool",
-            "facebook_handle": "z3ldastakingpool",
+            
             "twitter_handle": "Z3ldaP",
-            "youtube_handle": "",
-            "twitch_handle": "",
-            "discord_handle": "",
-            "github_handle": ""
+            "telegram_handle": "z3ldastakepool",
+            "facebook_handle": "z3ldastakingpool"
         },
         "company": {
             "name": "N/A",
