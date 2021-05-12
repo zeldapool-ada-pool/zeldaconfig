@@ -4,8 +4,9 @@
         "url_png_logo": "https://raw.githubusercontent.com/zeldapool-ada-pool/zeldaconfig/main/Z3lda64x64.jpg",
         "location": "Jersey City, New Jersey",
         "social": {
-            "telegram_handle": "https://t.me/z3ldastakepool",
-            "facebook_handle": "https://www.facebook.com/z3ldastakingpool",
+            "telegram_handle": "z3ldastakepool",
+            "facebook_handle": "z3ldastakingpool",
+            "twitter_handle": "Z3ldaP",
             "youtube_handle": "",
             "twitch_handle": "",
             "discord_handle": "",
@@ -14,8 +15,8 @@
         "company": {
             "name": "N/A",
             "addr": "N/A",
-            "city": "N/A",
-            "country": "N/A",
+            "city": "Jersey City",
+            "country": "United States",
             "company_id": "N/A",
             "vat_id": "N/A"
         },
@@ -26,7 +27,7 @@
         }
     },
     "my-pool-ids": {
-        "0": "263578cc21e4acdfb86ca47a90fbb9200a203e45975e6fea423fb438",
+        "0": "263578cc21e4acdfb86ca47a90fbb9200a203e45975e6fea423fb438"
     },
     "adapools_ext": {
         "prometheus": {
