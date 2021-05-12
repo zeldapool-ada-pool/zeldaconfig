@@ -1,60 +1,40 @@
 {
-    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
     "info": {
         "url_png_icon_64x64": "http(s) url to pool icon; not animated; max 40kb",
         "url_png_logo": "http(s) url to pool logo; not animated; max 50kb",
-        "location": "London, England",
+        "location": "Jersey City, New Jersey",
         "social": {
-            "twitter_handle": "AdapoolsO",
-            "telegram_handle": "adapools_ops",
-            "facebook_handle": "",
+            "telegram_handle": "https://t.me/z3ldastakepool",
+            "facebook_handle": "https://www.facebook.com/z3ldastakingpool",
             "youtube_handle": "",
             "twitch_handle": "",
             "discord_handle": "",
             "github_handle": ""
         },
         "company": {
-            "name": "Company Name",
-            "addr": "Street, Number",
-            "city": "London",
-            "country": "England",
-            "company_id": "123456789",
-            "vat_id": "GB123456789"
+            "name": "N/A",
+            "addr": "N/A",
+            "city": "N/A",
+            "country": "N/A",
+            "company_id": "N/A",
+            "vat_id": "N/A"
         },
         "about": {
-            "me": "...",
-            "server": "Raspberry Pi Hosted at my Home in London 100MB up/down, solar energy.",
-            "company": "..."
+            "me": "An experienced staking team with a deep experience of blockchain",
+            "server": "Globally distributed cloud based servers",
+            "company": "N/A"
         }
     },
     "my-pool-ids": {
-        "0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
-        "1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
-    },
-    "when-satured-then-recommend": {
-        "0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
-        "1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
-    },
-    "telegram-admin-handle": {
-        "0": "mnmnmnmnnmn"
+        "0": "pool1yc6h3nppujkdlwrv53afp7aeyq9zq0j9ja0xl6jz876rszrmd8l",
     },
     "adapools_ext": {
         "prometheus": {
             "0": {
-                "name": "relay 1 eu",
+                "name": "relay 1",
                 "type": "relay",
-                "key": "example_get_own_on_adapools.org/connect"
-            },
-            "1": {
-                "name": "relay 2 usa",
-                "type": "relay",
-                "key": "example_get_own_on_adapools.org/connect"
-            },
-            "2": {
-                "name": "block producer home",
-                "type": "bp",
-                "key": "example_get_own_on_adapools.org/connect"
-            }
+                "key": "529283de9f573c9c495ee8b6097a0614"
+            }        
         }
     }
 }
