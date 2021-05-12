@@ -1,0 +1,40 @@
+{
+    "info": {
+        "url_png_icon_64x64": "http(s) url to pool icon; not animated; max 40kb",
+        "url_png_logo": "http(s) url to pool logo; not animated; max 50kb",
+        "location": "Jersey City, New Jersey",
+        "social": {
+            "telegram_handle": "https://t.me/z3ldastakepool",
+            "facebook_handle": "https://www.facebook.com/z3ldastakingpool",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "N/A",
+            "addr": "N/A",
+            "city": "N/A",
+            "country": "N/A",
+            "company_id": "N/A",
+            "vat_id": "N/A"
+        },
+        "about": {
+            "me": "An experienced staking team with a deep experience of blockchain",
+            "server": "Globally distributed cloud based servers",
+            "company": "N/A"
+        }
+    },
+    "my-pool-ids": {
+        "0": "pool1yc6h3nppujkdlwrv53afp7aeyq9zq0j9ja0xl6jz876rszrmd8l",
+    },
+    "adapools_ext": {
+        "prometheus": {
+            "0": {
+                "name": "relay 1",
+                "type": "relay",
+                "key": "529283de9f573c9c495ee8b6097a0614"
+            }        
+        }
+    }
+}
