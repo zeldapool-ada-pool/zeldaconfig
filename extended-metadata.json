@@ -34,7 +34,12 @@
                 "name": "relay 1",
                 "type": "relay",
                 "key": "529283de9f573c9c495ee8b6097a0614"
-            }        
+            },
+            "2": {
+                "name": "Block Producer",
+                "type": "bp",
+                "key": "529283de9f573c9c495ee8b6097a0614"
+            }
         }
     }
 }
