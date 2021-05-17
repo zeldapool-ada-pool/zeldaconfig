@@ -30,17 +30,17 @@
             "0": {
                 "name": "Relay 1",
                 "type": "relay",
-                "key": "995b4a7d7ef04bc6fcc7f7f7b3e03714"
+                "key": "9796fafead698c22808feecfd3822f82"
             },
             "1": {
                 "name": "Block Producer",
                 "type": "bp",
-                "key": "995b4a7d7ef04bc6fcc7f7f7b3e03714"
+                "key": "d4cecdb77c48eaf209204660793fa6b4"
             }
             "2": {
                 "name": "Relay 2",
                 "type": "relay",
-                "key": "995b4a7d7ef04bc6fcc7f7f7b3e03714"
+                "key": "b86c9ade897e6b3fa55116e258fe66e1"
             }
             
         }
