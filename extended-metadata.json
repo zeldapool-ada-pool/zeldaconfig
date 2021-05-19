@@ -9,17 +9,12 @@
             "facebook_handle": "z3ldastakingpool"
         },
         "company": {
-            "name": "N/A",
-            "addr": "N/A",
             "city": "Jersey City",
             "country": "United States",
-            "company_id": "N/A",
-            "vat_id": "N/A"
         },
         "about": {
-            "me": "An experienced staking team with a deep experience of blockchain",
-            "server": "Globally distributed cloud based servers",
-            "company": "N/A"
+            "me": "Z3LDA pool is a United States based pool that is owned and operated by a staking team with a deep experience of blockchain and staking",
+            "server": "Cloud Based Solution. Relays: 2 x 2 CPU, 8 GB RAM, 40 Gb SSD. Relay 1: U.S. East Coast, Relay 2: Paris. Automatic failover. Block Producer: 1 x 2 CPU, 8 GB RAM, 40 Gb SSD. Servers have been hardened via point-to-point VPN connectivity, multi-layer firewalling, shared memory protection, use of fail2ban, use of 2FA for authentication. No cold keys are stored on the server and are instead held on an air-gapped secure machine.",
         }
     },
     "my-pool-ids": {
